@@ -11,20 +11,20 @@
 ## 📌 About Me
 🌱 I'm currently learning..
   
-    ✔
+    ✔ Advanced AI systems, LLMs, and scalable backend architectures
 👯 I'm looking to collaborate on ...
 
-    ✔
+    ✔ AI-powered applications, Full-Stack web apps, and Open-Source projects
   🤝 I'm looking for help with...
 
-    ✔
+    ✔ Research, production-ready GenAI systems, and real-world AI deployments
 
 ## 🧠 My Focus Areas
     
-    ✔ AI
-    ✔ LLM
-    ✔ GenAI
-
+    ✔ Artificial Intelligence (AI)
+    ✔ Large Language Models (LLMs)
+    ✔ Generative AI (GenAI)
+    ✔ Full-Stack Development
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
