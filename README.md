@@ -9,13 +9,13 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-🌱 I'm currently learning..
+🌱 I'm currently learning
   
     ✔ Advanced AI systems, LLMs, and scalable backend architectures
-👯 I'm looking to collaborate on ...
+👯 I'm looking to collaborate on
 
     ✔ AI-powered applications, Full-Stack web apps, and Open-Source projects
-  🤝 I'm looking for help with...
+  🤝 I'm looking for help with
 
     ✔ Research, production-ready GenAI systems, and real-world AI deployments
 
